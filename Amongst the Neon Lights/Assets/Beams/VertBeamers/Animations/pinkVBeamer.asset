@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02f1da0b6abdb7d45aa4315eccab639b, type: 3}
+  m_Name: pinkVBeamer
+  m_EditorClassIdentifier: 
+  cels:
+  - sprite: {fileID: 747293094, guid: 36cb1358462d11a42b42401e90935dd6, type: 3}
+    drivers:
+      keys:
+      - Beamer
+      values: 01000000
+  - sprite: {fileID: -1971187954, guid: 36cb1358462d11a42b42401e90935dd6, type: 3}
+    drivers:
+      keys:
+      - Beamer
+      values: 02000000
+  - sprite: {fileID: -1963786897, guid: 36cb1358462d11a42b42401e90935dd6, type: 3}
+    drivers:
+      keys:
+      - Beamer
+      - hurtBeam
+      values: 0300000001000000
+  - sprite: {fileID: -1615373283, guid: 36cb1358462d11a42b42401e90935dd6, type: 3}
+    drivers:
+      keys:
+      - Beamer
+      values: 02000000
+  controlDriver:
+    name: Beamer
+    autoIncrement: 0
+    percentageBased: 0
+    guid: c359d9d9-eb27-4f75-becf-607b01f7a507
+  drivers:
+    keys: []
+    values: 

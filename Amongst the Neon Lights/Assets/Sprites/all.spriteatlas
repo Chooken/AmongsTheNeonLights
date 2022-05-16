@@ -1,0 +1,150 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: all
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: d66b048b8d722ba4bb81eafe0fbedc09, type: 3}
+    - {fileID: 2800000, guid: 823f94643c79509418874f757303aa60, type: 3}
+    - {fileID: 2800000, guid: c4f76d492c7271f44a66fb12ee9cacdd, type: 3}
+    - {fileID: 2800000, guid: 9d28b3ea9c034e6418a9c952ea62c44a, type: 3}
+    - {fileID: 2800000, guid: 63f3bc99b56dbf04f907b55b65d755f6, type: 3}
+    - {fileID: 2800000, guid: d30b8f6e4546518479a2e48c6dc61f29, type: 3}
+    - {fileID: 2800000, guid: 8ed2636c74a736b418f9e3b09a52513d, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 823f94643c79509418874f757303aa60, type: 3}
+  - {fileID: -6385800943544062113, guid: c4f76d492c7271f44a66fb12ee9cacdd, type: 3}
+  - {fileID: -7737694335086376001, guid: c4f76d492c7271f44a66fb12ee9cacdd, type: 3}
+  - {fileID: 2185262210076433090, guid: c4f76d492c7271f44a66fb12ee9cacdd, type: 3}
+  - {fileID: 1617106360081144794, guid: c4f76d492c7271f44a66fb12ee9cacdd, type: 3}
+  - {fileID: 3623501092890670380, guid: c4f76d492c7271f44a66fb12ee9cacdd, type: 3}
+  - {fileID: -5173960755170605362, guid: c4f76d492c7271f44a66fb12ee9cacdd, type: 3}
+  - {fileID: -5261899221122508223, guid: c4f76d492c7271f44a66fb12ee9cacdd, type: 3}
+  - {fileID: 4785376463578028761, guid: 63f3bc99b56dbf04f907b55b65d755f6, type: 3}
+  - {fileID: 7249411542618232277, guid: 63f3bc99b56dbf04f907b55b65d755f6, type: 3}
+  - {fileID: 21300000, guid: 9d28b3ea9c034e6418a9c952ea62c44a, type: 3}
+  - {fileID: 21300000, guid: d66b048b8d722ba4bb81eafe0fbedc09, type: 3}
+  - {fileID: 5175028020796511544, guid: 8ed2636c74a736b418f9e3b09a52513d, type: 3}
+  - {fileID: 2502771055716985921, guid: 8ed2636c74a736b418f9e3b09a52513d, type: 3}
+  - {fileID: 4399538028089928172, guid: 8ed2636c74a736b418f9e3b09a52513d, type: 3}
+  - {fileID: -8948677646774590896, guid: 8ed2636c74a736b418f9e3b09a52513d, type: 3}
+  - {fileID: 6013217490227191043, guid: 8ed2636c74a736b418f9e3b09a52513d, type: 3}
+  - {fileID: 180967916034355781, guid: 8ed2636c74a736b418f9e3b09a52513d, type: 3}
+  - {fileID: 4221244197114563112, guid: 8ed2636c74a736b418f9e3b09a52513d, type: 3}
+  - {fileID: -927103095438882902, guid: 8ed2636c74a736b418f9e3b09a52513d, type: 3}
+  - {fileID: -962149499, guid: d30b8f6e4546518479a2e48c6dc61f29, type: 3}
+  - {fileID: -1168913459, guid: d30b8f6e4546518479a2e48c6dc61f29, type: 3}
+  - {fileID: -275938006, guid: d30b8f6e4546518479a2e48c6dc61f29, type: 3}
+  - {fileID: 1425300190, guid: d30b8f6e4546518479a2e48c6dc61f29, type: 3}
+  - {fileID: 1998370727, guid: d30b8f6e4546518479a2e48c6dc61f29, type: 3}
+  - {fileID: -1312471332, guid: d30b8f6e4546518479a2e48c6dc61f29, type: 3}
+  - {fileID: -686940091, guid: d30b8f6e4546518479a2e48c6dc61f29, type: 3}
+  - {fileID: 2138997362, guid: d30b8f6e4546518479a2e48c6dc61f29, type: 3}
+  - {fileID: 877338610, guid: d30b8f6e4546518479a2e48c6dc61f29, type: 3}
+  - {fileID: -847881839, guid: d30b8f6e4546518479a2e48c6dc61f29, type: 3}
+  - {fileID: 350359594, guid: d30b8f6e4546518479a2e48c6dc61f29, type: 3}
+  - {fileID: 1743367645, guid: d30b8f6e4546518479a2e48c6dc61f29, type: 3}
+  - {fileID: 942409478, guid: d30b8f6e4546518479a2e48c6dc61f29, type: 3}
+  - {fileID: 54365094, guid: d30b8f6e4546518479a2e48c6dc61f29, type: 3}
+  - {fileID: 1701466987, guid: d30b8f6e4546518479a2e48c6dc61f29, type: 3}
+  - {fileID: 1507817513, guid: d30b8f6e4546518479a2e48c6dc61f29, type: 3}
+  - {fileID: 463850676, guid: d30b8f6e4546518479a2e48c6dc61f29, type: 3}
+  - {fileID: -1486459890, guid: d30b8f6e4546518479a2e48c6dc61f29, type: 3}
+  - {fileID: -685030076, guid: d30b8f6e4546518479a2e48c6dc61f29, type: 3}
+  - {fileID: -408424902, guid: d30b8f6e4546518479a2e48c6dc61f29, type: 3}
+  - {fileID: -2065353589, guid: d30b8f6e4546518479a2e48c6dc61f29, type: 3}
+  - {fileID: -1198375284, guid: d30b8f6e4546518479a2e48c6dc61f29, type: 3}
+  - {fileID: -1258119628, guid: d30b8f6e4546518479a2e48c6dc61f29, type: 3}
+  - {fileID: -819183901, guid: d30b8f6e4546518479a2e48c6dc61f29, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - DiedScreen
+  - Settings Menu Mock_4
+  - Settings Menu Mock_5
+  - Settings Menu Mock_6
+  - Settings Menu Mock_0
+  - Settings Menu Mock_1
+  - Settings Menu Mock_2
+  - Settings Menu Mock_3
+  - TitleScreenSheet_1
+  - TitleScreenSheet_0
+  - Settings Menu
+  - Amongst the neon lights Icon
+  - WallAnimations_7
+  - WallAnimations_6
+  - WallAnimations_5
+  - WallAnimations_4
+  - WallAnimations_3
+  - WallAnimations_2
+  - WallAnimations_1
+  - WallAnimations_0
+  - SpriteSheet_13
+  - SpriteSheet_12
+  - SpriteSheet_11
+  - SpriteSheet_10
+  - SpriteSheet_26
+  - SpriteSheet_17
+  - SpriteSheet_16
+  - SpriteSheet_24
+  - SpriteSheet_15
+  - SpriteSheet_25
+  - SpriteSheet_14
+  - SpriteSheet_22
+  - SpriteSheet_23
+  - SpriteSheet_20
+  - SpriteSheet_19
+  - SpriteSheet_21
+  - SpriteSheet_18
+  - SpriteSheet_3
+  - SpriteSheet_4
+  - SpriteSheet_5
+  - SpriteSheet_6
+  - SpriteSheet_7
+  - SpriteSheet_8
+  - SpriteSheet_9
+  m_RenderDataMap: {}
+  m_Tag: all
+  m_IsVariant: 0

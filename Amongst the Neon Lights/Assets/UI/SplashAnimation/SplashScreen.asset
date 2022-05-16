@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02f1da0b6abdb7d45aa4315eccab639b, type: 3}
+  m_Name: SplashScreen
+  m_EditorClassIdentifier: 
+  cels:
+  - sprite: {fileID: 576330234, guid: 7f8607c826bf56c48ade22fd0695c971, type: 3}
+    drivers:
+      keys: []
+      values: 
+  - sprite: {fileID: 576330234, guid: 7f8607c826bf56c48ade22fd0695c971, type: 3}
+    drivers:
+      keys: []
+      values: 
+  - sprite: {fileID: 576330234, guid: 7f8607c826bf56c48ade22fd0695c971, type: 3}
+    drivers:
+      keys: []
+      values: 
+  - sprite: {fileID: 2059172685, guid: 7f8607c826bf56c48ade22fd0695c971, type: 3}
+    drivers:
+      keys: []
+      values: 
+  - sprite: {fileID: 657897473, guid: 7f8607c826bf56c48ade22fd0695c971, type: 3}
+    drivers:
+      keys: []
+      values: 
+  - sprite: {fileID: 695348710, guid: 7f8607c826bf56c48ade22fd0695c971, type: 3}
+    drivers:
+      keys: []
+      values: 
+  - sprite: {fileID: -1841692386, guid: 7f8607c826bf56c48ade22fd0695c971, type: 3}
+    drivers:
+      keys: []
+      values: 
+  - sprite: {fileID: -1841692386, guid: 7f8607c826bf56c48ade22fd0695c971, type: 3}
+    drivers:
+      keys: []
+      values: 
+  - sprite: {fileID: -1841692386, guid: 7f8607c826bf56c48ade22fd0695c971, type: 3}
+    drivers:
+      keys: []
+      values: 
+  - sprite: {fileID: -1841692386, guid: 7f8607c826bf56c48ade22fd0695c971, type: 3}
+    drivers:
+      keys: []
+      values: 
+  - sprite: {fileID: 695348710, guid: 7f8607c826bf56c48ade22fd0695c971, type: 3}
+    drivers:
+      keys: []
+      values: 
+  - sprite: {fileID: 657897473, guid: 7f8607c826bf56c48ade22fd0695c971, type: 3}
+    drivers:
+      keys: []
+      values: 
+  - sprite: {fileID: 2059172685, guid: 7f8607c826bf56c48ade22fd0695c971, type: 3}
+    drivers:
+      keys: []
+      values: 
+  - sprite: {fileID: 576330234, guid: 7f8607c826bf56c48ade22fd0695c971, type: 3}
+    drivers:
+      keys: []
+      values: 
+  - sprite: {fileID: 576330234, guid: 7f8607c826bf56c48ade22fd0695c971, type: 3}
+    drivers:
+      keys: []
+      values: 
+  - sprite: {fileID: 576330234, guid: 7f8607c826bf56c48ade22fd0695c971, type: 3}
+    drivers:
+      keys:
+      - SplashFinish
+      values: 00000000
+  controlDriver:
+    name: 
+    autoIncrement: 1
+    percentageBased: 0
+    guid: 7b0c5352-f878-410d-9033-c396adab035e
+  drivers:
+    keys: []
+    values: 

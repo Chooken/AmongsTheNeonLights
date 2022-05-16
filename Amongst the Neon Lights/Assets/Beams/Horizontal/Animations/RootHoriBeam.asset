@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1b935bc3bfd4944ab93c4a574dfd0da, type: 3}
+  m_Name: RootHoriBeam
+  m_EditorClassIdentifier: 
+  nodes:
+  - {fileID: 11400000, guid: 701d549337ed37b44b4236e868f441d3, type: 2}
+  - {fileID: 11400000, guid: c68bdc50ed8405b49b98f49a482d36a3, type: 2}
+  - {fileID: 11400000, guid: 6606727c8a844f64b8bbd67cb0d7b97e, type: 2}
+  controlDriver:
+    name: beam
+    autoIncrement: 0
+    percentageBased: 0
+    guid: dbff6158-fd77-4970-b33b-64b7672a1ae5
+  drivers:
+    keys: []
+    values: 

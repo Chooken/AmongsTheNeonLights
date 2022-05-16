@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02f1da0b6abdb7d45aa4315eccab639b, type: 3}
+  m_Name: LeftBeam
+  m_EditorClassIdentifier: 
+  cels:
+  - sprite: {fileID: -927103095438882902, guid: 8ed2636c74a736b418f9e3b09a52513d, type: 3}
+    drivers:
+      keys:
+      - beam
+      values: 01000000
+  - sprite: {fileID: 4399538028089928172, guid: 8ed2636c74a736b418f9e3b09a52513d, type: 3}
+    drivers:
+      keys:
+      - beam
+      values: 02000000
+  - sprite: {fileID: 2502771055716985921, guid: 8ed2636c74a736b418f9e3b09a52513d, type: 3}
+    drivers:
+      keys:
+      - beam
+      values: 03000000
+  - sprite: {fileID: 5175028020796511544, guid: 8ed2636c74a736b418f9e3b09a52513d, type: 3}
+    drivers:
+      keys:
+      - BeamHit
+      - beam
+      values: 0000000004000000
+  - sprite: {fileID: 2502771055716985921, guid: 8ed2636c74a736b418f9e3b09a52513d, type: 3}
+    drivers:
+      keys:
+      - beam
+      values: 05000000
+  - sprite: {fileID: 4399538028089928172, guid: 8ed2636c74a736b418f9e3b09a52513d, type: 3}
+    drivers:
+      keys:
+      - beam
+      values: 06000000
+  - sprite: {fileID: -927103095438882902, guid: 8ed2636c74a736b418f9e3b09a52513d, type: 3}
+    drivers:
+      keys:
+      - beam
+      - Finish
+      values: 0600000000000000
+  controlDriver:
+    name: beam
+    autoIncrement: 0
+    percentageBased: 0
+    guid: 69d628d7-47f4-4aa7-af16-b0db71574be0
+  drivers:
+    keys: []
+    values: 

@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Projectile
+  - BlockerRight
+  - BlockerLeft
+  - Foreground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - Projectile
+  - BlockerLeft
+  - BlockerRight
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Wall
+    uniqueID: 2305242313
+    locked: 0
+  - name: BeamLeft
+    uniqueID: 1233109665
+    locked: 0
+  - name: BeamRight
+    uniqueID: 1408214339
+    locked: 0
+  - name: Blocker
+    uniqueID: 2950472847
+    locked: 0
+  - name: Beamer
+    uniqueID: 2487580759
+    locked: 0
+  - name: Projectile
+    uniqueID: 3860151429
+    locked: 0
+  - name: Foreground
+    uniqueID: 1881094579
+    locked: 0
+  - name: UI
+    uniqueID: 1980398833
+    locked: 0

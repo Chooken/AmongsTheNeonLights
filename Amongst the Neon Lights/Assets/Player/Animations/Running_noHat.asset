@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02f1da0b6abdb7d45aa4315eccab639b, type: 3}
+  m_Name: Running_noHat
+  m_EditorClassIdentifier: 
+  cels:
+  - sprite: {fileID: -51970318, guid: 2c7f2bd81689d2242a504887fddd31d8, type: 3}
+    drivers:
+      keys: []
+      values: 
+  - sprite: {fileID: -764088180, guid: 2c7f2bd81689d2242a504887fddd31d8, type: 3}
+    drivers:
+      keys: []
+      values: 
+  controlDriver:
+    name: Run
+    autoIncrement: 1
+    percentageBased: 0
+    guid: 2bd91a71-687a-483b-834d-284fc049b4dd
+  drivers:
+    keys: []
+    values: 
